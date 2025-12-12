@@ -1,3 +1,6 @@
+// sort.c
+#include <stdio.h>
+
 #include <stdio.h>
 
 // Функция для обмена двух элементов
@@ -23,18 +26,9 @@ void bubbleSort(int arr[], int n) {
     }
 }
 
-// Функция для печати массива
-void printArray(int arr[], int size) {
-    int i;
-    for (i = 0; i < size; i++) {
-        printf("%d ", arr[i]);
-    }
-    printf("\n");
-}
-
 // Главная функция
 int main() {
-    int arr[] = {64, 34, 25, 12, 22, 11, 90};
+    int arr[] = {64, 34, 25, 12, 22, 90};
     int n = sizeof(arr) / sizeof(arr[0]);
     printf("Исходный массив: \n");
     printArray(arr, n);
@@ -45,5 +39,17 @@ int main() {
     printArray(arr, n);
 
     return 0;
-}1 коммит
-2 коммент
+}
+
+int main() {
+    int a[] = {4, 2, 0};
+    int n = sizeof(a) / sizeof(a[0]);g
+    sort(a, n);
+    
+    for (int i = 0; i < n; i++) {
+        printf("%d ", a[i]);
+    }
+    printf("\n");
+    
+    return 0;
+}
