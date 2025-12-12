@@ -30,3 +30,7 @@
 11-17
 
 ![alt text](image-7.png)
+
+На оценку 4 
+
+![alt text](image-8.png)
