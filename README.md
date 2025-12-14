@@ -1,9 +1,3 @@
-# qwerty1
-<<<<<<< HEAD
-
-# qwerty1
-=======
->>>>>>> feature/uppercase
 Часть 1 на оценку 3
 
 1
