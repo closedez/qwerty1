@@ -70,7 +70,6 @@
 
 Ветки и ff-merge
 
-<img width="1008" height="292" alt="image" src="https://github.com/user-attachments/assets/d58e59df-cc2c-41ea-beae-34721b83198b" />
 
 
 
