@@ -69,13 +69,3 @@
 <img width="1009" height="560" alt="image" src="https://github.com/user-attachments/assets/20ae5c58-f425-4aea-b380-21e7ccf8c9fb" />
 
 Ветки и ff-merge
-
-
-
-
-
-
-
-
-
-
