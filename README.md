@@ -1,4 +1,4 @@
-<img width="382" height="120" alt="image" src="https://github.com/user-attachments/assets/eab398c7-e4f7-497b-97b3-e0287e64dd18" />Часть 1 на оценку 3
+Часть 1 на оценку 3
 
 1
 
@@ -72,45 +72,6 @@
 
 <img width="1008" height="292" alt="image" src="https://github.com/user-attachments/assets/d58e59df-cc2c-41ea-beae-34721b83198b" />
 
-2
-
-![Uploading image.png…]()
-
-3-4
-
-![Uploading image.png…]()
-
-5-8
-
-![Uploading image.png…]()
-
-9
-
-![Uploading image.png…]()
-
-10-11
-
-![Uploading image.png…]()
-
-12
-
-![Uploading image.png…]()
-
-![Uploading image.png…]()
-
-13
-
-![Uploading image.png…]()
-
-![Uploading image.png…]()
-
-14-16
-
-![Uploading image.png…]()
-
-17
-
-![Uploading image.png…]()
 
 
 
