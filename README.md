@@ -69,3 +69,46 @@
 <img width="1009" height="560" alt="image" src="https://github.com/user-attachments/assets/20ae5c58-f425-4aea-b380-21e7ccf8c9fb" />
 
 Ветки и ff-merge
+1
+
+![alt text](image-16.png)
+
+2
+
+![alt text](image-14.png)
+
+3-4
+
+![alt text](image-15.png)
+
+5-8
+
+![alt text](image-17.png)
+
+9
+
+![alt text](image-18.png)
+
+10-11
+
+![alt text](image-19.png)
+
+12
+
+![alt text](image-20.png)
+
+![alt text](image-21.png)
+
+13
+
+![alt text](image-22.png)
+
+14-16
+
+![alt text](image-23.png)
+
+17
+
+![alt text](image-24.png)
+
+![alt text](image-25.png)
